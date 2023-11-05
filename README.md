@@ -1,6 +1,6 @@
 Hi all!
 
-I had such a fun time creating and styling this app!
+I had such a fun time creating and styling this app with Tailwind CSS.
 
 This app is for all of the astrology folks out there! It is a simple one page application. If you know your zodiac sign you are invited to click on the corresponding icon. The icon will then trigger a fetch request from the json.db to return a horoscope to you.
 
